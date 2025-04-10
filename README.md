@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VLSI ALU Logic Design
 
 A 4-mode arithmetic/logic unit designed with VHDL in Quartus II and verified with ModelSim simulation.
@@ -25,3 +26,7 @@ quartus_project/
 1. Open Quartus II and import `my_ckt_1.vhd`
 2. Run ModelSim simulation using `tb_my_ckt_1.vhd`
 3. Check waveforms and simulation reports
+=======
+# vlsi-alu-simulator
+A 4-mode ALU logic design using VHDL and verified with ModelSim.
+>>>>>>> 7fe74923a592ff588bffbefd23fef7c4cc438aa2
