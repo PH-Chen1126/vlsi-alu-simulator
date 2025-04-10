@@ -31,5 +31,5 @@ quartus_project/
 
 ## Simulation Waveform
 Here is the waveform result captured from ModelSim after running the testbench:
-![Simulation Result](images/simulation results.png)
+![Simulation Result](images/simulation results)
 This verifies that the ALU performs the expected operations for OR, ADD, MULTIPLY, and MOD.
